@@ -1,0 +1,28 @@
+{
+  "name": "fetch-get-post",
+  "version": "1.0.0",
+  "description": "- `npm init`\r - `npm install --save -dev node-fetch`",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkaya13/fetch-get-post.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkaya13/fetch-get-post/issues"
+  },
+  "homepage": "https://github.com/mkaya13/fetch-get-post#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.19.6"
+  }
+}
